@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.prepassign"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="28"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.prepassign.Members" />
+        <activity android:name="com.example.prepassign.AfterReview" />
+        <activity android:name="com.example.prepassign.AfterLocation" />
+        <activity android:name="com.example.prepassign.Places" />
+        <activity android:name="com.example.prepassign.BeachesFiveth" />
+        <activity android:name="com.example.prepassign.ActivitiesFourth" />
+        <activity android:name="com.example.prepassign.AboutmeThird" />
+        <activity android:name="com.example.prepassign.ExploreSecond" />
+        <activity android:name="com.example.prepassign.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.prepassign.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

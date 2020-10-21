@@ -1,0 +1,4 @@
+#Wed Oct 21 00:55:23 BST 2020
+base.0=C\:\\Users\\parde\\Downloads\\PrepAssign-20191129T141151Z-001\\PrepAssign\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
