@@ -27,10 +27,15 @@ Extras – has calender and Camera features (Image and Video) which is used.
 <img width="237" alt="Calender" src="https://user-images.githubusercontent.com/47186806/112736769-1d31f880-8f4d-11eb-83c0-205c8d735f44.PNG">
 
 <img width="241" alt="BeachList" src="https://user-images.githubusercontent.com/47186806/112736771-1e632580-8f4d-11eb-8690-8acd9931e9d2.PNG">
+
 <img width="235" alt="Explore" src="https://user-images.githubusercontent.com/47186806/112736773-20c57f80-8f4d-11eb-9776-576c4b7d9e0f.PNG">
+
 <img width="236" alt="Extras" src="https://user-images.githubusercontent.com/47186806/112736774-21f6ac80-8f4d-11eb-8908-8ed4c51af55f.PNG">
+
 <img width="236" alt="Location" src="https://user-images.githubusercontent.com/47186806/112736776-2327d980-8f4d-11eb-9075-b783811d2dc6.PNG">
+
 <img width="234" alt="Members" src="https://user-images.githubusercontent.com/47186806/112736778-2622ca00-8f4d-11eb-869f-28ea834ef68e.PNG">
+
 <img width="237" alt="SearchLocation" src="https://user-images.githubusercontent.com/47186806/112736780-28852400-8f4d-11eb-84c1-fbc34dcdf2dd.PNG">
 
 
